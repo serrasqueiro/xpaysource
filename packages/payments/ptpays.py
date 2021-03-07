@@ -14,6 +14,7 @@ METHODS_2021 = {	# Usual description in debt: company-key
     "ENT:21604": "EUPAGO",	# either "PAG.SERVICOS ENT:21604" or "PAG SERV 21604/nnn EUPAGO"
     "21604": "EUPAGO",	# (see "ENT:21604")
     "10611": "EASYPAY",	# e.g. "PAG SERV 10611/nnn EASYPAY INSTITUICAO DE" (caridade)
+    "11589": "WORTEN",	# e.g. "PAG COMP 11589/nnn WORTEN ..."
     }
 
 METHOD_BY_DATE = {
@@ -34,6 +35,9 @@ INFO_CONTEXTS = {
     "MEO": (
         "PAG.SERVICOS $2",	# e.g. "PAG.SERVICOS ENT:21159" ...
         ),
+    "WORTEN": (
+        "* * $3/ WORTEN",
+        ),
     }
 
 URL_CONTEXTS = {
@@ -45,6 +49,9 @@ URL_CONTEXTS = {
     ),
     "MEO": (
         "https://www.meo.pt/",
+    ),
+    "WORTEN": (
+        "https://www.worten.pt/",
     ),
 }
 
