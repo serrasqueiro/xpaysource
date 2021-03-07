@@ -11,7 +11,8 @@ Miscelaneous payment methods
 METHODS_2021 = {	# Usual description in debt: company-key
     "DDPT16103627": "FitnessHut",
     "ENT:21159": "MEO",	# "PAG.SERVICOS ENT:21159 REF:nnn"
-    "21604": "EUPAGO",	# "PAG SERV 21604/nnn EUPAGO"
+    "ENT:21604": "EUPAGO",	# either "PAG.SERVICOS ENT:21604" or "PAG SERV 21604/nnn EUPAGO"
+    "21604": "EUPAGO",	# (see "ENT:21604")
     }
 
 METHOD_BY_DATE = {
@@ -27,7 +28,7 @@ INFO_CONTEXTS = {
         "https://www.easypay.pt/pt/easypay-extrato-bancario",
         ),
     "EUPAGO": (
-        "$1 $2/ EUPAGO",
+        "* $2/ EUPAGO",
         "https://www.eupago.pt/",
         ),
     "MEO": (

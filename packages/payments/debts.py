@@ -86,7 +86,7 @@ def context_in_words(words, context_infos: dict) -> tuple:
     """ Returns a non-empty string if context is found in a bank debt string.
     Context is e.g. 'EASYPAY'.
     """
-
+    candidates = list()
     if not words:
         return "", None
     for ctx, tup in context_infos.items():
@@ -99,15 +99,18 @@ def context_in_words(words, context_infos: dict) -> tuple:
                 continue
             idx += 1
             hint = ""
-            if aref.startswith("$"):
+            if aref.startswith("$") or aref in ("*",):
                 idx_ref = aref[1:]
                 if idx_ref.endswith("/"):
                     idx_val = int(idx_ref[:-1])
                     hint = "/"
+                elif aref == "*":
+                    idx_val = None
                 else:
                     idx_val = int(idx_ref)
-                assert idx_val == idx
-                idx_list.append((idx, hint))
+                if idx_val is not None:
+                    assert idx_val == idx
+                    idx_list.append((idx, hint))
             else:
                 where.append((aref, idx))
         if not where:
@@ -116,14 +119,20 @@ def context_in_words(words, context_infos: dict) -> tuple:
         context, idx = where[0]
         assert context
         idx -= 1
-        word_there = words[idx]
         # if idx_list and idx_list[0][1] == "/": ...
         try:
-            if word_there == context:
-                return ctx, tuple(idx_list)
+            word_there = words[idx]
         except IndexError:
-            pass
-    return "", None
+            word_there = None
+        if word_there == context:
+            candidates.append((ctx, tuple(idx_list)))
+    if not candidates:
+        return "", None
+    if len(candidates) > 1:
+        astr = ';'.join([context for conext, _ in candidates])
+        return f"ambiguous contexts: {astr}", None
+    ctx, tup = candidates[0]
+    return ctx, tup
 
 
 # Main script
