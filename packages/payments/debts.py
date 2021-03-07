@@ -16,13 +16,34 @@ AMBIGUOUS_COMPANY = "@(ambiguous)"
 def sample() -> bool:
     """ Just a basic sample for usage.
     """
+    assert scrub_infos()
     num_contract = 31272397605
     optional_contract = f" {num_contract}" if num_contract else ""
     debt_desc = "DDPT16103627 EASYPAY" + optional_contract
     key = get_company_str(debt_desc, "18-06-2019")
     print("get_company_str():", debt_desc, "; is:", key)
+    assert key
+    key = get_company_str("PAG.SERV 10611/nnn EASYPAY")
+    print("get_company_str('...10611..'):", key)
+    assert key
     return key != ""
 
+def scrub_infos():
+    ctxs, urls = ptpays.INFO_CONTEXTS, ptpays.URL_CONTEXTS
+    for name in urls:
+        acontext = ctxs.get(name)
+        if acontext is None:
+            return False
+        assert isinstance(acontext, tuple)
+        cont = urls[name]
+        assert isinstance(cont, tuple)
+        assert len(cont) == 1
+        url = cont[0]
+        assert isinstance(url, str), "url should be a string, even empty"
+        if not url:
+            continue
+        assert url.startswith(("http://", "https://",)), f"Invalid URL: {url}"
+    return True
 
 def get_company_str(debt_desc: str, date: str="") -> str:
     """ Returns the company-key, if found, or empty if not found.
@@ -87,12 +108,12 @@ def context_in_words(words, context_infos: dict) -> tuple:
     Context is e.g. 'EASYPAY'.
     """
     candidates = list()
+    infos = list()
     if not words:
         return "", None
     for ctx, tup in context_infos.items():
-        aformat, url = tup
-        assert isinstance(url, str), "url should be a string, even empty"
-        assert not url or url.startswith("http")
+        infos += [(ctx, aformat) for aformat in tup]
+    for ctx, aformat in infos:
         idx, where, idx_list = 0, list(), list()
         for aref in aformat.split(' '):
             if not aref:

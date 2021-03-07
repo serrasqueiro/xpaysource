@@ -13,6 +13,7 @@ METHODS_2021 = {	# Usual description in debt: company-key
     "ENT:21159": "MEO",	# "PAG.SERVICOS ENT:21159 REF:nnn"
     "ENT:21604": "EUPAGO",	# either "PAG.SERVICOS ENT:21604" or "PAG SERV 21604/nnn EUPAGO"
     "21604": "EUPAGO",	# (see "ENT:21604")
+    "10611": "EASYPAY",	# e.g. "PAG SERV 10611/nnn EASYPAY INSTITUICAO DE" (caridade)
     }
 
 METHOD_BY_DATE = {
@@ -25,17 +26,27 @@ METHOD_BY_DATE = {
 INFO_CONTEXTS = {
     "EASYPAY": (
         "$1 EASYPAY",
-        "https://www.easypay.pt/pt/easypay-extrato-bancario",
+        "* $2/ EASYPAY", # PAG.SERV
         ),
     "EUPAGO": (
         "* $2/ EUPAGO",
-        "https://www.eupago.pt/",
         ),
     "MEO": (
         "PAG.SERVICOS $2",	# e.g. "PAG.SERVICOS ENT:21159" ...
-        "https://www.meo.pt/",
         ),
     }
+
+URL_CONTEXTS = {
+    "EASYPAY": (
+        "https://www.easypay.pt/pt/easypay-extrato-bancario",
+    ),
+    "EUPAGO": (
+        "https://www.eupago.pt/",
+    ),
+    "MEO": (
+        "https://www.meo.pt/",
+    ),
+}
 
 INFO_COMPANIES = {
     "FitnessHut": {
