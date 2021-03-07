@@ -5,7 +5,7 @@
 Miscelaneous payment methods
 """
 
-# pylint: disable=unused-argument
+# pylint: disable=line-too-long
 
 
 METHODS_2021 = {	# Usual description in debt: company-key
@@ -15,6 +15,9 @@ METHODS_2021 = {	# Usual description in debt: company-key
     "21604": "EUPAGO",	# (see "ENT:21604")
     "10611": "EASYPAY",	# e.g. "PAG SERV 10611/nnn EASYPAY INSTITUICAO DE" (caridade)
     "11589": "WORTEN",	# e.g. "PAG COMP 11589/nnn WORTEN ..."
+    "10155": "LDC",	# "LOJA DO CONDOMINIO"
+    "PAG.D.G.T": "Imposto",	# pagamento à Direção Geral do Tesouro
+    "LU96000000": "Paypal",	# e.g. DD LU96000000 PAYPAL (EUROPE) <ref>
     }
 
 METHOD_BY_DATE = {
@@ -37,6 +40,15 @@ INFO_CONTEXTS = {
         ),
     "WORTEN": (
         "* * $3/ WORTEN",
+        ),
+    "LOJA DO CONDOMINIO": (
+        "* * $3/ LOJA",
+        ),
+    "DGT": (
+        "PAG.D.G.T *",
+        ),
+    "PAYPAL": (
+        "* $2 PAYPAL",
         ),
     }
 

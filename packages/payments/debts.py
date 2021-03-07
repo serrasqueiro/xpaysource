@@ -8,6 +8,7 @@ Miscelaneous functions for payment methods
 
 import payments.freedate as freedate
 import payments.ptpays as ptpays
+from payments.debug import bprint, set_debug
 
 
 AMBIGUOUS_COMPANY = "@(ambiguous)"
@@ -16,6 +17,7 @@ AMBIGUOUS_COMPANY = "@(ambiguous)"
 def sample() -> bool:
     """ Just a basic sample for usage.
     """
+    set_debug(1)
     assert scrub_infos()
     num_contract = 31272397605
     optional_contract = f" {num_contract}" if num_contract else ""
@@ -28,7 +30,9 @@ def sample() -> bool:
     assert key
     return key != ""
 
-def scrub_infos():
+def scrub_infos() -> bool:
+    """ Scrub information, and assert if something not ok in variables.
+    """
     ctxs, urls = ptpays.INFO_CONTEXTS, ptpays.URL_CONTEXTS
     for name in urls:
         acontext = ctxs.get(name)
@@ -66,7 +70,6 @@ def get_company_str(debt_desc: str, date: str="") -> str:
     astr = company_from_methods(words, ptpays.INFO_CONTEXTS, all_methods, date)
     return astr
 
-
 def company_from_methods(words: list, context_infos: dict, methods: list, date="") -> str:
     """ Returns the company-key, if found, or empty if not found.
     :param words: debt description, as a list
@@ -77,8 +80,10 @@ def company_from_methods(words: list, context_infos: dict, methods: list, date="
     """
     company = ""
     context, idxs = context_in_words(words, context_infos)
-    #print("Debug:", context, idxs)
+    bprint(f"Debug: {words}: '{context}', idxs={idxs}")
     if not context or not idxs:
+        if not idxs:
+            assert not context, f"Unexpected context string: {context}"
         return ""
     at_idx, hint = idxs[0]
     assert at_idx >= 1, "INFO_CONTEXTS format should be e.g. '$1 EASYPAY'"
@@ -146,14 +151,18 @@ def context_in_words(words, context_infos: dict) -> tuple:
         except IndexError:
             word_there = None
         if word_there == context:
-            candidates.append((ctx, tuple(idx_list)))
+            candidates.append((ctx, idx_list))
     if not candidates:
         return "", None
     if len(candidates) > 1:
-        astr = ';'.join([context for conext, _ in candidates])
-        return f"ambiguous contexts: {astr}", None
-    ctx, tup = candidates[0]
-    return ctx, tup
+        astr = ';'.join([ctx_name for ctx_name, _ in candidates])
+        msg = f"ambiguous contexts: {astr}"
+        bprint("Debug:", msg, "")
+        return msg, None
+    ctx, idx_list = candidates[0]
+    if ctx and not idx_list:
+        idx_list = [(1, "")]
+    return ctx, tuple(idx_list)
 
 
 # Main script
