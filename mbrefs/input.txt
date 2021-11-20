@@ -1,0 +1,248 @@
+Código	Nome_da_Entidade	Tipos_de_pagamento_associados	Marcas_e_empresas_associadas
+10061	NOS_Comunicações,_S.A.	telecomunicações	_
+10081	OTLIS_-_Operadores_de_Transportes_da_Região_de_Lisboa,_A.C.E.	passe_do_Metro_de_Lisboa,_passe_da_Carris	
+10083	TIP_-_Transportes_Intermodais_do_Porto,_A.C.E.	passe_do_Metro_do_Porto,_passe_dos_STCP	
+10095	Direcção-Geral_do_Tesouro_e_Finanças	execuções_fiscais	
+10121	ACP_-_Automóvel_Clube_de_Portugal		
+10128	Fidelidade_-_Companhia_de_Seguros,_S.A.	seguros	
+10130	Eden_Springs_Portugal,_S.A.	soluções_de_água_e_café	
+10131	TAP_-_Transportes_Aéreos_Portugueses,_S.A.		
+10132	Liberty_Seguros,_S.A.	seguros	
+10155	Loja_do_Condomínio		
+10158	Vodafone_Portugal_-_Comunicaçõess_Pessoais,_S.A.	telecomunicações	
+10175	Seleções_do_Readers_Digest,_S.A.		
+10208	Global_Notícias_-_Publicações,_S.A.	anúncios	Jornal_de_Notícias
+10211	Câmara_Municipal_do_Porto		
+10212	Motor_Press_Lisboa_-_Edição_e_Distribuição_S.A.	assinatura_de_revistas	
+10227	Caravela_-_Companhia_de_Seguros,_S.A.	seguros	
+10231	INATEL		
+10241	HiPay_CompraFácil	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+10244	Victoria_Seguros,_S.A.	seguros	
+10261	OK_Teleseguro	seguros	
+10294	Ageas_Portugal_-_Companhia_de_Seguros,_S.A.	seguros	
+10297	Vodafone_Portugal_-_Comunicaçõess_Pessoais,_S.A.	telecomunicações	
+10311	Ordem_Dos_Engenheiros		
+10314	IPVC_-_Instituto_Politécnico_de_Viana_do_Castelo	propinas	
+10335	Ordem_Dos_Enfermeiros		
+10351	NOS_Madeira_Comunicações,_S.A.	telecomunicações	
+10363	Fnac		
+10404	COFAC_-_Cooperativa_de_Formação_e_Animação_Cultural,_C.R.L.	propinas	Universidade_Lusófona
+10411	Certiel_-_Associação_Certificadora_de_Instalações_Eléctricas,_S.A.	inspeção_e_certificação_de_instalações_elétricas	
+10420	Fidelidade_-_Companhia_de_Seguros,_S.A.	seguros	
+10451	ISEP__-_Instituto_Superior_de_Engenharia_do_Porto	propinas	
+10455	Liberty_Seguros,_S.A.	seguros	
+10482	Sportinveste_Multimédia,_S.A.	Streaming_vídeo_de_jogos_em_direto	
+10511	Porto_Editora,_S.A.		Escola_Virtual
+10550	Otis_Elevadores,_Lda.		
+10559	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+10575	Viagens_Abreu,_S.A.		
+10611	Easypay_-_Instituição_de_Pagamento,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+10612	Sweets_4_U_-_Comercialização_e_Representação_de_Produtos_Alimentares,_Lda.	chocolates	Mysweets4u
+10641	Instituto_de_Gestão_Financeira_e_de_Infra-Estruturas_da_Justiça,_I.P.		
+10644	Cloudware,_S.A.	licença_de_utilização_de_programa_de_facturação	TOConline
+10652	Sage_Portugal_-_Software,_S.A.		
+10828	Nestlé_Portugal,_S.A.		
+10950	IVV_-_Instituto_da_Vinha_e_do_Vinho		
+10954	Altice_Portugal,_S.A.	telecomunicações	Meo
+10958	ISEP__-_Instituto_Superior_de_Engenharia_do_Porto	propinas	
+10991	Staples_Portugal_-_Equipamento_de_Escritório,_S.A.		
+10996	ADENE_-_Agência_para_a_Energia	certificação_energética_dos_edifícios	
+11012	IRN_-_Instituito_dos_Registos_e_Notariado,_I.P.	registo_predial_online	
+11013	AMA_-_Agência_para_a_Modernização_Administrativa,_I.P.		Portal_do_Cidadão,_Espaço_Empresa
+11024	Lusopay_-_Instituição_de_Pagamento,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11056	N_Seguros,_S.A.	seguros	
+11062	ACP_-_Mediação_de_Seguros,_S.A.	seguros	
+11063	Seguradoras_Unidas,_S.A.	seguros	
+11100	Clínica_CUF_Cascais,_S.A.		
+11202	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11216	Município_de_Estremoz		
+11241	La_Redoute		
+11249	HiPay_CompraFácil	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	Conforama,_Lap2Go,_Globalsport,_Mister_Auto,_PCdiga,_Betfair,_Bet365,_Cortefiel,_etc.
+11283	EDP_Comercial_-_Comercialização_de_Energia,_S.A.	electricidade/gás/outros_combustíveis	
+11299	AT_-_Autoridade_Tributária	IES_-_Informação_Empresarial_Simplificada	
+11314	Onsalesit,_S.A.	suplementos_dietéticos	Prozis
+11335	Athenas_-_Mediação_de_Seguros_Lda.	seguros	
+11364	Endesa_Energia,_S.A.	electricidade/gás/outros_combustíveis	
+11369	Empark_Portugal_-_Empreendimentos_e_Exploração_de_Parqueamentos,_S.A.	estacionamento_automóvel	
+11390	2B_Style_-_Unipessoal,_Lda.	vestuário_e_acessórios_de_moda	
+11409	Courlux_International,_S.A.	artigos_de_higiene_e_vestuário	
+11412	FixeAds_-_Serviços_de_Internet,_S.A.	anúncios	Imovirtual,_Standvirtual
+11413	TAP_-_Transportes_Aéreos_Portugueses,_S.A.		
+11419	Opensoft_-_Soluções_Informáticas,_S.A.		
+11421	Câmara_Municipal_de_Lisboa		
+11440	ISEP__-_Instituto_Superior_de_Engenharia_do_Porto	cartão_alimentação	
+11456	Gold_Energy_-_Comercializadora_de_Energia,_S.A.	electricidade/gás/outros_combustíveis	
+11471	TAP_-_Transportes_Aéreos_Portugueses,_S.A.		
+11473	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11583	Gas_Natural_Servicios_SDG,_S.A._-_Sucursal_em_Portugal	electricidade/gás/outros_combustíveis	
+11589	Worten_-_Equipamentos_para_o_Lar,_S.A.		
+11604	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11606	Cif_-_Agência_de_Viagens_e_Turismo,_S.A.		
+11609	ISCSP_-_Instituto_Superior_de_Ciências_Sociais_e_Políticas	propinas	
+11644	Iberdrola_Portugal_-_Electricidade_e_Gás,_S.A.	electricidade/gás/outros_combustíveis	
+11663	Município_de_Santo_Tirso		
+11669	Multicert_-__-_Serviços_de_Certificação_Electrónica_S.A.	certificação_digital	
+11683	Easypay_-_Instituição_de_Pagamento,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11686	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11687	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11693	Centro_Hospitalar_e_Universitario_de_Coimbra,_E.P.E.		
+11706	Universidade_de_Lisboa	propinas	
+11708	MHR	serviços_postais/logística	
+11711	IRN_-_Instituito_dos_Registos_e_Notariado,_I.P.	registo_predial_online	
+11712	IRN_-_Instituito_dos_Registos_e_Notariado,_I.P.	registo_predial_online	
+11713	IRN_-_Instituito_dos_Registos_e_Notariado,_I.P.	registo_predial_online	
+11714	IRN_-_Instituito_dos_Registos_e_Notariado,_I.P.	registo_predial_online	
+11717	IEFP_-_Instituto_de_Emprego_e_Formação_Profissional		
+11726	Vertbaudet_Portugal_-_Vendas_à_Distância,_Lda.	vestuário_infantil	
+11737	Ticket_Restaurant		
+11749	SportZone		
+11758	SATA_Internacional		
+11767	CVRVV_-_Comissão_de_Viticultura_da_Região_dos_Vinhos_Verdes		
+11780	Claranet_Soho,_S.A.		Dominios.pt
+11782	Easypay_-_Instituição_de_Pagamento,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11795	IRN_-_Instituito_dos_Registos_e_Notariado,_I.P.	registo_predial_online	
+11802	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11811	Centro_Social_da_Legião_da_Boa_Vontade		
+11843	Easypay_-_Instituição_de_Pagamento,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11854	PPRO_Financial_Ltd._-_Sucursal_em_Portugal	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11873	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11877	euPago__-_Instituição_de_Pagamento,_Lda,	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11893	HPME_-_Hi-Media_Porte_Monnaie_Électronique,_S.A._-_Sucursal_em_Portugal	serviços_bancários_-_carteira_electrónica	Hipay
+11896	IAVE_-_Instituto_de_Avaliação_Educativa,_I.P.		
+11925	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11937	IRN_-_Instituito_dos_Registos_e_Notariado,_I.P.	registo_predial_online	
+11944	Via_Verde_Portugal_-_Gestão_de_Sistemas_Electrónicos_De_Cobrança,_S.A.	portagens	
+11950	Câmara_Municipal_de_Lisboa		
+11967	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11979	PayPayUE_-_Instituição_de_Pagamento,_Unipessoal,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11985	Galp_Energia,_S.A.	electricidade/gás/outros_combustíveis	
+11988	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	Audilar,_Aquário,_Clínica_Paris,_Rádio_Popular
+11989	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11990	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+11999	Eporto_-_Estacionamentos_Públicos_do_Porto,_S.A.	taxas_e_multas_de_estacionamento	
+12009	Gold_Energy_-_Comercializadora_de_Energia,_S.A.	electricidade/gás/outros_combustíveis	
+12020	Easypay_-_Instituição_de_Pagamento,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+12057	Dalenys_Payment	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+12121	Endesa_Energia,_S.A.	electricidade/gás/outros_combustíveis	
+12142	euPago__-_Instituição_de_Pagamento,_Lda,	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+20108	Wizink_Bank,_S.A._-_Sucursal_em_Portugal	serviços_bancários_-_crédito_ao_consumo	BarclayCard
+20130	Novo_Banco,_S.A.	serviços_bancários	
+20145	Sporting_Clube_De_Portugal,_S.A.D.	quotas_de_associado_do_Sporting_C.P.	
+20152	Sporting_Clube_De_Portugal,_S.A.D.	quotas_de_associado_do_Sporting_C.P.	
+20160	Jogos_Santa_Casa	apostas	
+20173	Liberty_Seguros,_S.A.	seguros	
+20174	EDP_Comercial_-_Comercialização_de_Energia,_S.A.	electricidade/gás/outros_combustíveis	
+20175	Allianz_Seguros	seguros	
+20181	IGFSS_-_Instituto_de_Gestão_Financeira_da_Segurança_Social,_I.P.		
+20183	Generali_-_Companhia_De_Seguros,_S.A.	seguros	
+20185	BNP_Paribas_Personal_Finance	serviços_bancários_-_crédito_ao_consumo	
+20229	GE_Consumer_Finance_-_Instituição_Financeira_de_Credito,_S.A.	serviços_bancários_-_crédito_ao_consumo	
+20237	Ordem_dos_Solicitadores_e_dos_Agentes_de_Execução		
+20341	Via_Verde_Portugal_-_Gestão_de_Sistemas_Electrónicos_De_Cobrança,_S.A.	portagens	
+20394	BCP_-_Banco_Comercial_Português,_S.A.	serviços_bancários	Millenium_BCP
+20409	Federação_Portuguesa_de_Futebol		
+20414	Best_-_Banco_Electronico_De_Serviço_Total,_S.A.	serviços_bancários	
+20420	MetLife_Europe_Limited_-_Sucursal_em_Portugal,_S.A.	seguros	
+20426	Porto_Comercial_-_Sociedade_de_Comercialização,_Licenciamento_e_Sponsorização,_S.A.	quotas_de_associado_do_F.C._Porto	
+20442	ZON_Multimédia,_S.A._(INACTIVO)	telecomunicações	
+20484	CGD_-_Caixa_Geral_De_Depósitos,_S.A.	serviços_bancários	
+20498	Banco_Santander_Consumer_Portugal,_S.A.	serviços_bancários_-_crédito_ao_consumo	
+20601	BNP_Paribas_Personal_Finance	serviços_bancários_-_crédito_ao_consumo	
+20603	Optimus_Comunicações,_S.A._(INACTIVO)	telecomunicações	
+20641	Serviços_Municipalizados_de_Loures	água/saneamento/resíduos	
+20659	Zurich_Seguros	seguros	
+20669	Município_de_Oliveira_de_Azeméis		
+20670	Banco_Santander_Totta,_S.A.	serviços_bancários	
+20678	Oney	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras_:_crédito_ao_consumo	Aki,_Leroy_Merlin,_Freeport,_Norauto,_OMB,_Jumbo
+20698	Ordem_Dos_Arquitetos		
+20715	BPI_-_Banco_Portugês_de_Investimento,_S.A.	serviços_bancários	
+20718	Banco_Santander_Totta,_S.A.	serviços_bancários	
+20719	Associação_DNS.PT	registo_de_domínios_.pt	
+20724	ACT_-_Autoridade_para_as_Condições_de_Trabalho		
+20741	Credibom_-_Sociedade_Financeira_para_Aquisições_a_Crédito,_S.A.	serviços_bancários_-_crédito_ao_consumo	
+20754	Banco_Santander_Totta,_S.A.	serviços_bancários	
+20776	Ageas_Portugal_-_Companhia_de_Seguros,_S.A.	seguros	
+20804	UNICRE_-_Instituição_Financeira_de_Crédito,_S.A.	serviços_bancários_-_crédito_ao_consumo	
+20811	EPAL_-_Empresa_Portuguesa_das_Águas_Livres,_S.A.	água/saneamento/resíduos_-_Lisboa	
+20812	EDP_Serviço_Universal,_S.A.	electricidade/gás/outros_combustíveis	
+20813	BPI_-_Banco_Portugês_de_Investimento,_S.A.	serviços_bancários	
+20815	Águas_de_Gaia,_E.M.	água/saneamento/resíduos	
+20821	IST_-_Instituto_Superior_Técnico	propinas	
+20832	EEM_-_Empresa_de_Eletricidade_da_Madeira,_S.A.	electricidade/gás/outros_combustíveis	
+20834	Novo_Banco,_S.A.	serviços_bancários	
+20838	ISEG_-_Instituto_Superior_de_Economia_e_Gestão	propinas	
+20839	Cetelem	serviços_bancários_-_crédito_ao_consumo	
+20843	ANRS_-_Autoridade_Nacional_de_Segurança_Rodoviária	multas_de_estacionamento,_coimas_rodoviárias	
+20858	Banco_Cofidis,_S.A.	serviços_bancários_-_crédito_ao_consumo	
+20890	Wizink_Bank,_S.A._-_Sucursal_em_Portugal	serviços_bancários_-_crédito_ao_consumo	BarclayCard
+20891	Wizink_Bank,_S.A._-_Sucursal_em_Portugal	serviços_bancários_-_crédito_ao_consumo	BarclayCard
+20912	ISPA_-_Instituto_Superior_de_Psicologia_Aplicada	propinas	
+20918	Universidade_Aveiro	propinas	
+20934	Açoreana_Seguros	seguros	
+20936	Nowo_Communications,_S.A.	telecomunicações	
+20950	Petrogal_-_Petróleos_de_Portugal,_S.A.	electricidade/gás/outros_combustíveis	
+20961	Rentokil_Initial_Portugal_-_Serviços_de_Proteção_Ambiental,_Lda.		
+20975	IMTT_-_Instituto_da_Mobilidade_e_dos_Transportes_Terrestres,_I.P.	IUC_-_Imposto_Único_de_Circulação	
+20977	Casax_-_Consultadoria_de_Gestão,_Lda.		Remax
+20987	Blueticket_-_Serviços_de_Bilhética,_S.A.		
+21000	Jet_Cooler_-_Águas_e_Cafés,_S.A.	soluções_de_água_e_café	
+21034	Banco_Primus,_S.A.	serviços_bancários_-_crédito_ao_consumo	
+21056	IGFSS_-_Instituto_de_Gestão_Financeira_da_Segurança_Social,_I.P.		
+21086	IMTT_-_Instituto_da_Mobilidade_e_dos_Transportes_Terrestres,_I.P.	IUC_-_Imposto_Único_de_Circulação	
+21096	Galp_Energia,_S.A.	electricidade/gás/outros_combustíveis	
+21098	Easypay_-_Instituição_de_Pagamento,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+21135	Seguradoras_Unidas,_S.A.	seguros	
+21142	Condoarade_-_Gestão_de_Condomínios,_Lda.		
+21146	Segurihigiene_-_Medicina_no_Trabalho,_S.A.		
+21154	CTT_Correios_de_Portugal,_S.A.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras_:_portagens,_água,_etc.	
+21159	Altice_Portugal,_S.A.	telecomunicações	PT_Empresas,_Meo
+21177	Galp_Gás_Natural,_S.A.	electricidade/gás/outros_combustíveis	
+21188	EDP_-_Soluções_Comerciais,_S.A.	electricidade/gás/outros_combustíveis	
+21196	EDP_-_Soluções_Comerciais,_S.A.	electricidade/gás/outros_combustíveis	
+21199	APECA_-_Associação_das_Empresas_de_Contabilidade_e_Administração		
+21212	Município_de_Paredes		
+21218	Ascendi,_S.A.	portagens	
+21225	Montellano,_Lda.	consumíveis_dentários	
+21234	Vialivre,_S.A.	portagens	
+21235	Otis_Elevadores,_Lda.		
+21245	BMW_Bank_Gmbh_-_Sucursal_Portuguesa	serviços_bancários_-_crédito_automóvel	BMW_Financial_Services
+21269	Universidade_do_Porto	propinas	
+21276	Santander_Totta_Seguros_-_Companhia_de_Seguros_de_Vida,_S.A.	seguros	
+21309	Município_de_Terras_De_Bouro		
+21312	Caixa_Económica_Montepio_Geral_-_Caixa_Económica_Bancária,_S.A.	serviços_bancários_-_carregamento_de_cartões_de_débito_pré-pagos	
+21318	Município_de_Coimbra		
+21321	Primavera_Software,_S.A.		
+21344	Município_de_Gondomar		
+21345	Cascais_Próxima_-_Gestão_da_Mobilidade,_Espaços_Urbanos_e_Energias,_E.M._S.A.	multas,_coimas_rodoviárias	
+21347	Polícia_Municipal_de_Lisboa	multas_de_estacionamento,_coimas_rodoviárias	
+21349	Servdebt_-_Capital_Asset_Management,_S.A.	serviços_bancários_-_recuperação_de_créditos	
+21374	BNP_Paribas_Personal_Finance	serviços_bancários_-_crédito_ao_consumo	
+21375	BCP_-_Banco_Comercial_Português,_S.A.	serviços_bancários	Millenium_BCP
+21383	Wurth_Portugal_-_Técnica_de_Montagem,_Lda.		
+21410	Servdebt_-_Capital_Asset_Management,_S.A.	serviços_bancários_-_recuperação_de_créditos	
+21417	Ascendi,_S.A.	portagens	
+21426	PT_Pay,_S.A.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	Meo_Wallet,_Ticketline
+21448	IGFSS_-_Instituto_de_Gestão_Financeira_da_Segurança_Social,_I.P.	FCT_-_Fundos_de_Compensação_do_Trabalho	
+21467	Liberty_Seguros,_S.A.	seguros	
+21487	Águas_de_Valongo,_S.A.	água/saneamento/resíduos	
+21489	BCP_-_Banco_Comercial_Português,_S.A.	serviços_bancários	Millenium_BCP
+21496	CMPEA_-_Empresa_de_Águas_do_Município_do_Porto,_E.M.	água/saneamento/resíduos	
+21535	Lisgarante_-_Sociedade_de_Garantia_Mútua,_S.A.	serviços_bancários	
+21540	Aegon_Santander_Portugal_Vida_-_Companhia_de_Seguros_de_Vida,_S.A.	seguros	
+21546	UCI_-_Unión_de_Créditos_Inmobiliarios,_S.A._-_Sucursal_em_Portugal	serviços_bancários_-_crédito_à_habitação	
+21557	CTT_Correios_de_Portugal,_S.A.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+21565	PT_Pay,_S.A.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+21572	Victoria_Seguros,_S.A.	seguros	
+21575	Servicos_Municipalizados_das_Caldas_Rainha		
+21577	Lease_Plan_Portugal_-_Comércio_e_Aluguer_de_Automóveis_e_Equipamentos,_Unipessoal,_Lda.		
+21579	NOS_Comunicações,_S.A.	telecomunicações	
+21604	euPago__-_Instituição_de_Pagamento,_Lda,	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	Lap2Go
+21606	Ordem_Dos_Enfermeiros		
+21607	CTT_Correios_de_Portugal,_S.A.	serviços_postais/logística	
+21615	Logicomer_-_Gestão_e_Recuperação_de_Créditos,_S.A.	serviços_bancários_-_recuperação_de_créditos	
+21619	Servicos_Municipalizados_de_Leiria		
+21622	Águas_de_Coimbra	água/saneamento/resíduos	
+21625	SMEAS_-_Serviços_Municipalizados_de_Electricidade,_Água_e_Saneamento_da_Maia	água/saneamento/resíduos	
+21651	Águas_de_Gaia,_E.M.	água/saneamento/resíduos	
+21721	Ifthenpay,_Lda.	serviço_de_gestão_de_pagamentos_MB_a_entidades_terceiras	
+23000	Bet_Entertainment_Technologies_Limited_-_Sucursal_Em_Portugal	apostas	

@@ -1,0 +1,1731 @@
+[
+  {
+    "associated": "telecomunicacoes",
+    "entity": "telecomunicacoes",
+    "iso-name": "NOS Comunicac,o~es, S.A.",
+    "name": "NOS Comunica\u00e7\u00f5es, S.A.",
+    "ref": 10061
+  },
+  {
+    "associated": "passe do Metro de Lisboa, passe da Carris",
+    "entity": "passe do Metro de Lisboa, passe da Carris",
+    "iso-name": "OTLIS - Operadores de Transportes da Regia~o de Lisboa, A.C.E.",
+    "name": "OTLIS - Operadores de Transportes da Regi\u00e3o de Lisboa, A.C.E.",
+    "ref": 10081
+  },
+  {
+    "associated": "passe do Metro do Porto, passe dos STCP",
+    "entity": "passe do Metro do Porto, passe dos STCP",
+    "iso-name": "TIP - Transportes Intermodais do Porto, A.C.E.",
+    "name": "TIP - Transportes Intermodais do Porto, A.C.E.",
+    "ref": 10083
+  },
+  {
+    "associated": "execucoes fiscais",
+    "entity": "execucoes fiscais",
+    "iso-name": "Direcc,a~o-Geral do Tesouro e Financ,as",
+    "name": "Direc\u00e7\u00e3o-Geral do Tesouro e Finan\u00e7as",
+    "ref": 10095
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "ACP - Automo'vel Clube de Portugal",
+    "name": "ACP - Autom\u00f3vel Clube de Portugal",
+    "ref": 10121
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Fidelidade - Companhia de Seguros, S.A.",
+    "name": "Fidelidade - Companhia de Seguros, S.A.",
+    "ref": 10128
+  },
+  {
+    "associated": "solucoes de agua e cafe",
+    "entity": "solucoes de agua e cafe",
+    "iso-name": "Eden Springs Portugal, S.A.",
+    "name": "Eden Springs Portugal, S.A.",
+    "ref": 10130
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "TAP - Transportes Ae'reos Portugueses, S.A.",
+    "name": "TAP - Transportes A\u00e9reos Portugueses, S.A.",
+    "ref": 10131
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Liberty Seguros, S.A.",
+    "name": "Liberty Seguros, S.A.",
+    "ref": 10132
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Loja do Condomi'nio",
+    "name": "Loja do Condom\u00ednio",
+    "ref": 10155
+  },
+  {
+    "associated": "telecomunicacoes",
+    "entity": "telecomunicacoes",
+    "iso-name": "Vodafone Portugal - Comunicac,o~ess Pessoais, S.A.",
+    "name": "Vodafone Portugal - Comunica\u00e7\u00f5ess Pessoais, S.A.",
+    "ref": 10158
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Selec,o~es do Readers Digest, S.A.",
+    "name": "Sele\u00e7\u00f5es do Readers Digest, S.A.",
+    "ref": 10175
+  },
+  {
+    "associated": "anuncios",
+    "entity": "anuncios",
+    "iso-name": "Global Noti'cias - Publicac,o~es, S.A.",
+    "name": "Global Not\u00edcias - Publica\u00e7\u00f5es, S.A.",
+    "ref": 10208
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Ca^mara Municipal do Porto",
+    "name": "C\u00e2mara Municipal do Porto",
+    "ref": 10211
+  },
+  {
+    "associated": "assinatura de revistas",
+    "entity": "assinatura de revistas",
+    "iso-name": "Motor Press Lisboa - Edic,a~o e Distribuic,a~o S.A.",
+    "name": "Motor Press Lisboa - Edi\u00e7\u00e3o e Distribui\u00e7\u00e3o S.A.",
+    "ref": 10212
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Caravela - Companhia de Seguros, S.A.",
+    "name": "Caravela - Companhia de Seguros, S.A.",
+    "ref": 10227
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "INATEL",
+    "name": "INATEL",
+    "ref": 10231
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "HiPay CompraFa'cil",
+    "name": "HiPay CompraF\u00e1cil",
+    "ref": 10241
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Victoria Seguros, S.A.",
+    "name": "Victoria Seguros, S.A.",
+    "ref": 10244
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "OK Teleseguro",
+    "name": "OK Teleseguro",
+    "ref": 10261
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Ageas Portugal - Companhia de Seguros, S.A.",
+    "name": "Ageas Portugal - Companhia de Seguros, S.A.",
+    "ref": 10294
+  },
+  {
+    "associated": "telecomunicacoes",
+    "entity": "telecomunicacoes",
+    "iso-name": "Vodafone Portugal - Comunicac,o~ess Pessoais, S.A.",
+    "name": "Vodafone Portugal - Comunica\u00e7\u00f5ess Pessoais, S.A.",
+    "ref": 10297
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Ordem Dos Engenheiros",
+    "name": "Ordem Dos Engenheiros",
+    "ref": 10311
+  },
+  {
+    "associated": "propinas",
+    "entity": "propinas",
+    "iso-name": "IPVC - Instituto Polite'cnico de Viana do Castelo",
+    "name": "IPVC - Instituto Polit\u00e9cnico de Viana do Castelo",
+    "ref": 10314
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Ordem Dos Enfermeiros",
+    "name": "Ordem Dos Enfermeiros",
+    "ref": 10335
+  },
+  {
+    "associated": "telecomunicacoes",
+    "entity": "telecomunicacoes",
+    "iso-name": "NOS Madeira Comunicac,o~es, S.A.",
+    "name": "NOS Madeira Comunica\u00e7\u00f5es, S.A.",
+    "ref": 10351
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Fnac",
+    "name": "Fnac",
+    "ref": 10363
+  },
+  {
+    "associated": "propinas",
+    "entity": "propinas",
+    "iso-name": "COFAC - Cooperativa de Formac,a~o e Animac,a~o Cultural, C.R.L.",
+    "name": "COFAC - Cooperativa de Forma\u00e7\u00e3o e Anima\u00e7\u00e3o Cultural, C.R.L.",
+    "ref": 10404
+  },
+  {
+    "associated": "inspecao e certificacao de instalacoes eletricas",
+    "entity": "inspecao e certificacao de instalacoes eletricas",
+    "iso-name": "Certiel - Associac,a~o Certificadora de Instalac,o~es Ele'ctricas, S.A.",
+    "name": "Certiel - Associa\u00e7\u00e3o Certificadora de Instala\u00e7\u00f5es El\u00e9ctricas, S.A.",
+    "ref": 10411
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Fidelidade - Companhia de Seguros, S.A.",
+    "name": "Fidelidade - Companhia de Seguros, S.A.",
+    "ref": 10420
+  },
+  {
+    "associated": "propinas",
+    "entity": "propinas",
+    "iso-name": "ISEP - Instituto Superior de Engenharia do Porto",
+    "name": "ISEP - Instituto Superior de Engenharia do Porto",
+    "ref": 10451
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Liberty Seguros, S.A.",
+    "name": "Liberty Seguros, S.A.",
+    "ref": 10455
+  },
+  {
+    "associated": "Streaming video de jogos em direto",
+    "entity": "Streaming video de jogos em direto",
+    "iso-name": "Sportinveste Multime'dia, S.A.",
+    "name": "Sportinveste Multim\u00e9dia, S.A.",
+    "ref": 10482
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Porto Editora, S.A.",
+    "name": "Porto Editora, S.A.",
+    "ref": 10511
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Otis Elevadores, Lda.",
+    "name": "Otis Elevadores, Lda.",
+    "ref": 10550
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 10559
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Viagens Abreu, S.A.",
+    "name": "Viagens Abreu, S.A.",
+    "ref": 10575
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Easypay - Instituic,a~o de Pagamento, Lda.",
+    "name": "Easypay - Institui\u00e7\u00e3o de Pagamento, Lda.",
+    "ref": 10611
+  },
+  {
+    "associated": "chocolates",
+    "entity": "chocolates",
+    "iso-name": "Sweets 4 U - Comercializac,a~o e Representac,a~o de Produtos Alimentares, Lda.",
+    "name": "Sweets 4 U - Comercializa\u00e7\u00e3o e Representa\u00e7\u00e3o de Produtos Alimentares, Lda.",
+    "ref": 10612
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Instituto de Gesta~o Financeira e de Infra-Estruturas da Justic,a, I.P.",
+    "name": "Instituto de Gest\u00e3o Financeira e de Infra-Estruturas da Justi\u00e7a, I.P.",
+    "ref": 10641
+  },
+  {
+    "associated": "licenca de utilizacao de programa de facturacao",
+    "entity": "licenca de utilizacao de programa de facturacao",
+    "iso-name": "Cloudware, S.A.",
+    "name": "Cloudware, S.A.",
+    "ref": 10644
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Sage Portugal - Software, S.A.",
+    "name": "Sage Portugal - Software, S.A.",
+    "ref": 10652
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Nestle' Portugal, S.A.",
+    "name": "Nestl\u00e9 Portugal, S.A.",
+    "ref": 10828
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "IVV - Instituto da Vinha e do Vinho",
+    "name": "IVV - Instituto da Vinha e do Vinho",
+    "ref": 10950
+  },
+  {
+    "associated": "telecomunicacoes",
+    "entity": "telecomunicacoes",
+    "iso-name": "Altice Portugal, S.A.",
+    "name": "Altice Portugal, S.A.",
+    "ref": 10954
+  },
+  {
+    "associated": "propinas",
+    "entity": "propinas",
+    "iso-name": "ISEP - Instituto Superior de Engenharia do Porto",
+    "name": "ISEP - Instituto Superior de Engenharia do Porto",
+    "ref": 10958
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Staples Portugal - Equipamento de Escrito'rio, S.A.",
+    "name": "Staples Portugal - Equipamento de Escrit\u00f3rio, S.A.",
+    "ref": 10991
+  },
+  {
+    "associated": "certificacao energetica dos edificios",
+    "entity": "certificacao energetica dos edificios",
+    "iso-name": "ADENE - Age^ncia para a Energia",
+    "name": "ADENE - Ag\u00eancia para a Energia",
+    "ref": 10996
+  },
+  {
+    "associated": "registo predial online",
+    "entity": "registo predial online",
+    "iso-name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "ref": 11012
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "AMA - Age^ncia para a Modernizac,a~o Administrativa, I.P.",
+    "name": "AMA - Ag\u00eancia para a Moderniza\u00e7\u00e3o Administrativa, I.P.",
+    "ref": 11013
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Lusopay - Instituic,a~o de Pagamento, Lda.",
+    "name": "Lusopay - Institui\u00e7\u00e3o de Pagamento, Lda.",
+    "ref": 11024
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "N Seguros, S.A.",
+    "name": "N Seguros, S.A.",
+    "ref": 11056
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "ACP - Mediac,a~o de Seguros, S.A.",
+    "name": "ACP - Media\u00e7\u00e3o de Seguros, S.A.",
+    "ref": 11062
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Seguradoras Unidas, S.A.",
+    "name": "Seguradoras Unidas, S.A.",
+    "ref": 11063
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Cli'nica CUF Cascais, S.A.",
+    "name": "Cl\u00ednica CUF Cascais, S.A.",
+    "ref": 11100
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 11202
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Munici'pio de Estremoz",
+    "name": "Munic\u00edpio de Estremoz",
+    "ref": 11216
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "La Redoute",
+    "name": "La Redoute",
+    "ref": 11241
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "HiPay CompraFa'cil",
+    "name": "HiPay CompraF\u00e1cil",
+    "ref": 11249
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "EDP Comercial - Comercializac,a~o de Energia, S.A.",
+    "name": "EDP Comercial - Comercializa\u00e7\u00e3o de Energia, S.A.",
+    "ref": 11283
+  },
+  {
+    "associated": "IES - Informacao Empresarial Simplificada",
+    "entity": "IES - Informacao Empresarial Simplificada",
+    "iso-name": "AT - Autoridade Tributa'ria",
+    "name": "AT - Autoridade Tribut\u00e1ria",
+    "ref": 11299
+  },
+  {
+    "associated": "suplementos dieteticos",
+    "entity": "suplementos dieteticos",
+    "iso-name": "Onsalesit, S.A.",
+    "name": "Onsalesit, S.A.",
+    "ref": 11314
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Athenas - Mediac,a~o de Seguros Lda.",
+    "name": "Athenas - Media\u00e7\u00e3o de Seguros Lda.",
+    "ref": 11335
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "Endesa Energia, S.A.",
+    "name": "Endesa Energia, S.A.",
+    "ref": 11364
+  },
+  {
+    "associated": "estacionamento automovel",
+    "entity": "estacionamento automovel",
+    "iso-name": "Empark Portugal - Empreendimentos e Explorac,a~o de Parqueamentos, S.A.",
+    "name": "Empark Portugal - Empreendimentos e Explora\u00e7\u00e3o de Parqueamentos, S.A.",
+    "ref": 11369
+  },
+  {
+    "associated": "vestuario e acessorios de moda",
+    "entity": "vestuario e acessorios de moda",
+    "iso-name": "2B Style - Unipessoal, Lda.",
+    "name": "2B Style - Unipessoal, Lda.",
+    "ref": 11390
+  },
+  {
+    "associated": "artigos de higiene e vestuario",
+    "entity": "artigos de higiene e vestuario",
+    "iso-name": "Courlux International, S.A.",
+    "name": "Courlux International, S.A.",
+    "ref": 11409
+  },
+  {
+    "associated": "anuncios",
+    "entity": "anuncios",
+    "iso-name": "FixeAds - Servic,os de Internet, S.A.",
+    "name": "FixeAds - Servi\u00e7os de Internet, S.A.",
+    "ref": 11412
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "TAP - Transportes Ae'reos Portugueses, S.A.",
+    "name": "TAP - Transportes A\u00e9reos Portugueses, S.A.",
+    "ref": 11413
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Opensoft - Soluc,o~es Informa'ticas, S.A.",
+    "name": "Opensoft - Solu\u00e7\u00f5es Inform\u00e1ticas, S.A.",
+    "ref": 11419
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Ca^mara Municipal de Lisboa",
+    "name": "C\u00e2mara Municipal de Lisboa",
+    "ref": 11421
+  },
+  {
+    "associated": "cartao alimentacao",
+    "entity": "cartao alimentacao",
+    "iso-name": "ISEP - Instituto Superior de Engenharia do Porto",
+    "name": "ISEP - Instituto Superior de Engenharia do Porto",
+    "ref": 11440
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "Gold Energy - Comercializadora de Energia, S.A.",
+    "name": "Gold Energy - Comercializadora de Energia, S.A.",
+    "ref": 11456
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "TAP - Transportes Ae'reos Portugueses, S.A.",
+    "name": "TAP - Transportes A\u00e9reos Portugueses, S.A.",
+    "ref": 11471
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 11473
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "Gas Natural Servicios SDG, S.A. - Sucursal em Portugal",
+    "name": "Gas Natural Servicios SDG, S.A. - Sucursal em Portugal",
+    "ref": 11583
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Worten - Equipamentos para o Lar, S.A.",
+    "name": "Worten - Equipamentos para o Lar, S.A.",
+    "ref": 11589
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 11604
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Cif - Age^ncia de Viagens e Turismo, S.A.",
+    "name": "Cif - Ag\u00eancia de Viagens e Turismo, S.A.",
+    "ref": 11606
+  },
+  {
+    "associated": "propinas",
+    "entity": "propinas",
+    "iso-name": "ISCSP - Instituto Superior de Cie^ncias Sociais e Poli'ticas",
+    "name": "ISCSP - Instituto Superior de Ci\u00eancias Sociais e Pol\u00edticas",
+    "ref": 11609
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "Iberdrola Portugal - Electricidade e Ga's, S.A.",
+    "name": "Iberdrola Portugal - Electricidade e G\u00e1s, S.A.",
+    "ref": 11644
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Munici'pio de Santo Tirso",
+    "name": "Munic\u00edpio de Santo Tirso",
+    "ref": 11663
+  },
+  {
+    "associated": "certificacao digital",
+    "entity": "certificacao digital",
+    "iso-name": "Multicert - - Servic,os de Certificac,a~o Electro'nica S.A.",
+    "name": "Multicert - - Servi\u00e7os de Certifica\u00e7\u00e3o Electr\u00f3nica S.A.",
+    "ref": 11669
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Easypay - Instituic,a~o de Pagamento, Lda.",
+    "name": "Easypay - Institui\u00e7\u00e3o de Pagamento, Lda.",
+    "ref": 11683
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 11686
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 11687
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Centro Hospitalar e Universitario de Coimbra, E.P.E.",
+    "name": "Centro Hospitalar e Universitario de Coimbra, E.P.E.",
+    "ref": 11693
+  },
+  {
+    "associated": "propinas",
+    "entity": "propinas",
+    "iso-name": "Universidade de Lisboa",
+    "name": "Universidade de Lisboa",
+    "ref": 11706
+  },
+  {
+    "associated": "servicos postais/logistica",
+    "entity": "servicos postais/logistica",
+    "iso-name": "MHR",
+    "name": "MHR",
+    "ref": 11708
+  },
+  {
+    "associated": "registo predial online",
+    "entity": "registo predial online",
+    "iso-name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "ref": 11711
+  },
+  {
+    "associated": "registo predial online",
+    "entity": "registo predial online",
+    "iso-name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "ref": 11712
+  },
+  {
+    "associated": "registo predial online",
+    "entity": "registo predial online",
+    "iso-name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "ref": 11713
+  },
+  {
+    "associated": "registo predial online",
+    "entity": "registo predial online",
+    "iso-name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "ref": 11714
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "IEFP - Instituto de Emprego e Formac,a~o Profissional",
+    "name": "IEFP - Instituto de Emprego e Forma\u00e7\u00e3o Profissional",
+    "ref": 11717
+  },
+  {
+    "associated": "vestuario infantil",
+    "entity": "vestuario infantil",
+    "iso-name": "Vertbaudet Portugal - Vendas 'a Dista^ncia, Lda.",
+    "name": "Vertbaudet Portugal - Vendas \u00e0 Dist\u00e2ncia, Lda.",
+    "ref": 11726
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Ticket Restaurant",
+    "name": "Ticket Restaurant",
+    "ref": 11737
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "SportZone",
+    "name": "SportZone",
+    "ref": 11749
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "SATA Internacional",
+    "name": "SATA Internacional",
+    "ref": 11758
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "CVRVV - Comissa~o de Viticultura da Regia~o dos Vinhos Verdes",
+    "name": "CVRVV - Comiss\u00e3o de Viticultura da Regi\u00e3o dos Vinhos Verdes",
+    "ref": 11767
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Claranet Soho, S.A.",
+    "name": "Claranet Soho, S.A.",
+    "ref": 11780
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Easypay - Instituic,a~o de Pagamento, Lda.",
+    "name": "Easypay - Institui\u00e7\u00e3o de Pagamento, Lda.",
+    "ref": 11782
+  },
+  {
+    "associated": "registo predial online",
+    "entity": "registo predial online",
+    "iso-name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "ref": 11795
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 11802
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Centro Social da Legia~o da Boa Vontade",
+    "name": "Centro Social da Legi\u00e3o da Boa Vontade",
+    "ref": 11811
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Easypay - Instituic,a~o de Pagamento, Lda.",
+    "name": "Easypay - Institui\u00e7\u00e3o de Pagamento, Lda.",
+    "ref": 11843
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "PPRO Financial Ltd. - Sucursal em Portugal",
+    "name": "PPRO Financial Ltd. - Sucursal em Portugal",
+    "ref": 11854
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 11873
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "euPago - Instituic,a~o de Pagamento, Lda,",
+    "name": "euPago - Institui\u00e7\u00e3o de Pagamento, Lda,",
+    "ref": 11877
+  },
+  {
+    "associated": "servicos bancarios - carteira electronica",
+    "entity": "servicos bancarios - carteira electronica",
+    "iso-name": "HPME - Hi-Media Porte Monnaie E'lectronique, S.A. - Sucursal em Portugal",
+    "name": "HPME - Hi-Media Porte Monnaie \u00c9lectronique, S.A. - Sucursal em Portugal",
+    "ref": 11893
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "IAVE - Instituto de Avaliac,a~o Educativa, I.P.",
+    "name": "IAVE - Instituto de Avalia\u00e7\u00e3o Educativa, I.P.",
+    "ref": 11896
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 11925
+  },
+  {
+    "associated": "registo predial online",
+    "entity": "registo predial online",
+    "iso-name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "name": "IRN - Instituito dos Registos e Notariado, I.P.",
+    "ref": 11937
+  },
+  {
+    "associated": "portagens",
+    "entity": "portagens",
+    "iso-name": "Via Verde Portugal - Gesta~o de Sistemas Electro'nicos De Cobranc,a, S.A.",
+    "name": "Via Verde Portugal - Gest\u00e3o de Sistemas Electr\u00f3nicos De Cobran\u00e7a, S.A.",
+    "ref": 11944
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Ca^mara Municipal de Lisboa",
+    "name": "C\u00e2mara Municipal de Lisboa",
+    "ref": 11950
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 11967
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "PayPayUE - Instituic,a~o de Pagamento, Unipessoal, Lda.",
+    "name": "PayPayUE - Institui\u00e7\u00e3o de Pagamento, Unipessoal, Lda.",
+    "ref": 11979
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "Galp Energia, S.A.",
+    "name": "Galp Energia, S.A.",
+    "ref": 11985
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 11988
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 11989
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 11990
+  },
+  {
+    "associated": "taxas e multas de estacionamento",
+    "entity": "taxas e multas de estacionamento",
+    "iso-name": "Eporto - Estacionamentos Pu'blicos do Porto, S.A.",
+    "name": "Eporto - Estacionamentos P\u00fablicos do Porto, S.A.",
+    "ref": 11999
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "Gold Energy - Comercializadora de Energia, S.A.",
+    "name": "Gold Energy - Comercializadora de Energia, S.A.",
+    "ref": 12009
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Easypay - Instituic,a~o de Pagamento, Lda.",
+    "name": "Easypay - Institui\u00e7\u00e3o de Pagamento, Lda.",
+    "ref": 12020
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Dalenys Payment",
+    "name": "Dalenys Payment",
+    "ref": 12057
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "Endesa Energia, S.A.",
+    "name": "Endesa Energia, S.A.",
+    "ref": 12121
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "euPago - Instituic,a~o de Pagamento, Lda,",
+    "name": "euPago - Institui\u00e7\u00e3o de Pagamento, Lda,",
+    "ref": 12142
+  },
+  {
+    "associated": "servicos bancarios - credito ao consumo",
+    "entity": "servicos bancarios - credito ao consumo",
+    "iso-name": "Wizink Bank, S.A. - Sucursal em Portugal",
+    "name": "Wizink Bank, S.A. - Sucursal em Portugal",
+    "ref": 20108
+  },
+  {
+    "associated": "servicos bancarios",
+    "entity": "servicos bancarios",
+    "iso-name": "Novo Banco, S.A.",
+    "name": "Novo Banco, S.A.",
+    "ref": 20130
+  },
+  {
+    "associated": "quotas de associado do Sporting C.P.",
+    "entity": "quotas de associado do Sporting C.P.",
+    "iso-name": "Sporting Clube De Portugal, S.A.D.",
+    "name": "Sporting Clube De Portugal, S.A.D.",
+    "ref": 20145
+  },
+  {
+    "associated": "quotas de associado do Sporting C.P.",
+    "entity": "quotas de associado do Sporting C.P.",
+    "iso-name": "Sporting Clube De Portugal, S.A.D.",
+    "name": "Sporting Clube De Portugal, S.A.D.",
+    "ref": 20152
+  },
+  {
+    "associated": "apostas",
+    "entity": "apostas",
+    "iso-name": "Jogos Santa Casa",
+    "name": "Jogos Santa Casa",
+    "ref": 20160
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Liberty Seguros, S.A.",
+    "name": "Liberty Seguros, S.A.",
+    "ref": 20173
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "EDP Comercial - Comercializac,a~o de Energia, S.A.",
+    "name": "EDP Comercial - Comercializa\u00e7\u00e3o de Energia, S.A.",
+    "ref": 20174
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Allianz Seguros",
+    "name": "Allianz Seguros",
+    "ref": 20175
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "IGFSS - Instituto de Gesta~o Financeira da Seguranc,a Social, I.P.",
+    "name": "IGFSS - Instituto de Gest\u00e3o Financeira da Seguran\u00e7a Social, I.P.",
+    "ref": 20181
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Generali - Companhia De Seguros, S.A.",
+    "name": "Generali - Companhia De Seguros, S.A.",
+    "ref": 20183
+  },
+  {
+    "associated": "servicos bancarios - credito ao consumo",
+    "entity": "servicos bancarios - credito ao consumo",
+    "iso-name": "BNP Paribas Personal Finance",
+    "name": "BNP Paribas Personal Finance",
+    "ref": 20185
+  },
+  {
+    "associated": "servicos bancarios - credito ao consumo",
+    "entity": "servicos bancarios - credito ao consumo",
+    "iso-name": "GE Consumer Finance - Instituic,a~o Financeira de Credito, S.A.",
+    "name": "GE Consumer Finance - Institui\u00e7\u00e3o Financeira de Credito, S.A.",
+    "ref": 20229
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Ordem dos Solicitadores e dos Agentes de Execuc,a~o",
+    "name": "Ordem dos Solicitadores e dos Agentes de Execu\u00e7\u00e3o",
+    "ref": 20237
+  },
+  {
+    "associated": "portagens",
+    "entity": "portagens",
+    "iso-name": "Via Verde Portugal - Gesta~o de Sistemas Electro'nicos De Cobranc,a, S.A.",
+    "name": "Via Verde Portugal - Gest\u00e3o de Sistemas Electr\u00f3nicos De Cobran\u00e7a, S.A.",
+    "ref": 20341
+  },
+  {
+    "associated": "servicos bancarios",
+    "entity": "servicos bancarios",
+    "iso-name": "BCP - Banco Comercial Portugue^s, S.A.",
+    "name": "BCP - Banco Comercial Portugu\u00eas, S.A.",
+    "ref": 20394
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Federac,a~o Portuguesa de Futebol",
+    "name": "Federa\u00e7\u00e3o Portuguesa de Futebol",
+    "ref": 20409
+  },
+  {
+    "associated": "servicos bancarios",
+    "entity": "servicos bancarios",
+    "iso-name": "Best - Banco Electronico De Servic,o Total, S.A.",
+    "name": "Best - Banco Electronico De Servi\u00e7o Total, S.A.",
+    "ref": 20414
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "MetLife Europe Limited - Sucursal em Portugal, S.A.",
+    "name": "MetLife Europe Limited - Sucursal em Portugal, S.A.",
+    "ref": 20420
+  },
+  {
+    "associated": "quotas de associado do F.C. Porto",
+    "entity": "quotas de associado do F.C. Porto",
+    "iso-name": "Porto Comercial - Sociedade de Comercializac,a~o, Licenciamento e Sponsorizac,a~o, S.A.",
+    "name": "Porto Comercial - Sociedade de Comercializa\u00e7\u00e3o, Licenciamento e Sponsoriza\u00e7\u00e3o, S.A.",
+    "ref": 20426
+  },
+  {
+    "associated": "telecomunicacoes",
+    "entity": "telecomunicacoes",
+    "iso-name": "ZON Multime'dia, S.A. (INACTIVO)",
+    "name": "ZON Multim\u00e9dia, S.A. (INACTIVO)",
+    "ref": 20442
+  },
+  {
+    "associated": "servicos bancarios",
+    "entity": "servicos bancarios",
+    "iso-name": "CGD - Caixa Geral De Depo'sitos, S.A.",
+    "name": "CGD - Caixa Geral De Dep\u00f3sitos, S.A.",
+    "ref": 20484
+  },
+  {
+    "associated": "servicos bancarios - credito ao consumo",
+    "entity": "servicos bancarios - credito ao consumo",
+    "iso-name": "Banco Santander Consumer Portugal, S.A.",
+    "name": "Banco Santander Consumer Portugal, S.A.",
+    "ref": 20498
+  },
+  {
+    "associated": "servicos bancarios - credito ao consumo",
+    "entity": "servicos bancarios - credito ao consumo",
+    "iso-name": "BNP Paribas Personal Finance",
+    "name": "BNP Paribas Personal Finance",
+    "ref": 20601
+  },
+  {
+    "associated": "telecomunicacoes",
+    "entity": "telecomunicacoes",
+    "iso-name": "Optimus Comunicac,o~es, S.A. (INACTIVO)",
+    "name": "Optimus Comunica\u00e7\u00f5es, S.A. (INACTIVO)",
+    "ref": 20603
+  },
+  {
+    "associated": "agua/saneamento/residuos",
+    "entity": "agua/saneamento/residuos",
+    "iso-name": "Servic,os Municipalizados de Loures",
+    "name": "Servi\u00e7os Municipalizados de Loures",
+    "ref": 20641
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Zurich Seguros",
+    "name": "Zurich Seguros",
+    "ref": 20659
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Munici'pio de Oliveira de Azeme'is",
+    "name": "Munic\u00edpio de Oliveira de Azem\u00e9is",
+    "ref": 20669
+  },
+  {
+    "associated": "servicos bancarios",
+    "entity": "servicos bancarios",
+    "iso-name": "Banco Santander Totta, S.A.",
+    "name": "Banco Santander Totta, S.A.",
+    "ref": 20670
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras : credito ao consumo",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras : credito ao consumo",
+    "iso-name": "Oney",
+    "name": "Oney",
+    "ref": 20678
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Ordem Dos Arquitetos",
+    "name": "Ordem Dos Arquitetos",
+    "ref": 20698
+  },
+  {
+    "associated": "servicos bancarios",
+    "entity": "servicos bancarios",
+    "iso-name": "BPI - Banco Portuge^s de Investimento, S.A.",
+    "name": "BPI - Banco Portug\u00eas de Investimento, S.A.",
+    "ref": 20715
+  },
+  {
+    "associated": "servicos bancarios",
+    "entity": "servicos bancarios",
+    "iso-name": "Banco Santander Totta, S.A.",
+    "name": "Banco Santander Totta, S.A.",
+    "ref": 20718
+  },
+  {
+    "associated": "registo de dominios .pt",
+    "entity": "registo de dominios .pt",
+    "iso-name": "Associac,a~o DNS.PT",
+    "name": "Associa\u00e7\u00e3o DNS.PT",
+    "ref": 20719
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "ACT - Autoridade para as Condic,o~es de Trabalho",
+    "name": "ACT - Autoridade para as Condi\u00e7\u00f5es de Trabalho",
+    "ref": 20724
+  },
+  {
+    "associated": "servicos bancarios - credito ao consumo",
+    "entity": "servicos bancarios - credito ao consumo",
+    "iso-name": "Credibom - Sociedade Financeira para Aquisic,o~es a Cre'dito, S.A.",
+    "name": "Credibom - Sociedade Financeira para Aquisi\u00e7\u00f5es a Cr\u00e9dito, S.A.",
+    "ref": 20741
+  },
+  {
+    "associated": "servicos bancarios",
+    "entity": "servicos bancarios",
+    "iso-name": "Banco Santander Totta, S.A.",
+    "name": "Banco Santander Totta, S.A.",
+    "ref": 20754
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Ageas Portugal - Companhia de Seguros, S.A.",
+    "name": "Ageas Portugal - Companhia de Seguros, S.A.",
+    "ref": 20776
+  },
+  {
+    "associated": "servicos bancarios - credito ao consumo",
+    "entity": "servicos bancarios - credito ao consumo",
+    "iso-name": "UNICRE - Instituic,a~o Financeira de Cre'dito, S.A.",
+    "name": "UNICRE - Institui\u00e7\u00e3o Financeira de Cr\u00e9dito, S.A.",
+    "ref": 20804
+  },
+  {
+    "associated": "agua/saneamento/residuos - Lisboa",
+    "entity": "agua/saneamento/residuos - Lisboa",
+    "iso-name": "EPAL - Empresa Portuguesa das A'guas Livres, S.A.",
+    "name": "EPAL - Empresa Portuguesa das \u00c1guas Livres, S.A.",
+    "ref": 20811
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "EDP Servic,o Universal, S.A.",
+    "name": "EDP Servi\u00e7o Universal, S.A.",
+    "ref": 20812
+  },
+  {
+    "associated": "servicos bancarios",
+    "entity": "servicos bancarios",
+    "iso-name": "BPI - Banco Portuge^s de Investimento, S.A.",
+    "name": "BPI - Banco Portug\u00eas de Investimento, S.A.",
+    "ref": 20813
+  },
+  {
+    "associated": "agua/saneamento/residuos",
+    "entity": "agua/saneamento/residuos",
+    "iso-name": "A'guas de Gaia, E.M.",
+    "name": "\u00c1guas de Gaia, E.M.",
+    "ref": 20815
+  },
+  {
+    "associated": "propinas",
+    "entity": "propinas",
+    "iso-name": "IST - Instituto Superior Te'cnico",
+    "name": "IST - Instituto Superior T\u00e9cnico",
+    "ref": 20821
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "EEM - Empresa de Eletricidade da Madeira, S.A.",
+    "name": "EEM - Empresa de Eletricidade da Madeira, S.A.",
+    "ref": 20832
+  },
+  {
+    "associated": "servicos bancarios",
+    "entity": "servicos bancarios",
+    "iso-name": "Novo Banco, S.A.",
+    "name": "Novo Banco, S.A.",
+    "ref": 20834
+  },
+  {
+    "associated": "propinas",
+    "entity": "propinas",
+    "iso-name": "ISEG - Instituto Superior de Economia e Gesta~o",
+    "name": "ISEG - Instituto Superior de Economia e Gest\u00e3o",
+    "ref": 20838
+  },
+  {
+    "associated": "servicos bancarios - credito ao consumo",
+    "entity": "servicos bancarios - credito ao consumo",
+    "iso-name": "Cetelem",
+    "name": "Cetelem",
+    "ref": 20839
+  },
+  {
+    "associated": "multas de estacionamento, coimas rodoviarias",
+    "entity": "multas de estacionamento, coimas rodoviarias",
+    "iso-name": "ANRS - Autoridade Nacional de Seguranc,a Rodovia'ria",
+    "name": "ANRS - Autoridade Nacional de Seguran\u00e7a Rodovi\u00e1ria",
+    "ref": 20843
+  },
+  {
+    "associated": "servicos bancarios - credito ao consumo",
+    "entity": "servicos bancarios - credito ao consumo",
+    "iso-name": "Banco Cofidis, S.A.",
+    "name": "Banco Cofidis, S.A.",
+    "ref": 20858
+  },
+  {
+    "associated": "servicos bancarios - credito ao consumo",
+    "entity": "servicos bancarios - credito ao consumo",
+    "iso-name": "Wizink Bank, S.A. - Sucursal em Portugal",
+    "name": "Wizink Bank, S.A. - Sucursal em Portugal",
+    "ref": 20890
+  },
+  {
+    "associated": "servicos bancarios - credito ao consumo",
+    "entity": "servicos bancarios - credito ao consumo",
+    "iso-name": "Wizink Bank, S.A. - Sucursal em Portugal",
+    "name": "Wizink Bank, S.A. - Sucursal em Portugal",
+    "ref": 20891
+  },
+  {
+    "associated": "propinas",
+    "entity": "propinas",
+    "iso-name": "ISPA - Instituto Superior de Psicologia Aplicada",
+    "name": "ISPA - Instituto Superior de Psicologia Aplicada",
+    "ref": 20912
+  },
+  {
+    "associated": "propinas",
+    "entity": "propinas",
+    "iso-name": "Universidade Aveiro",
+    "name": "Universidade Aveiro",
+    "ref": 20918
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Ac,oreana Seguros",
+    "name": "A\u00e7oreana Seguros",
+    "ref": 20934
+  },
+  {
+    "associated": "telecomunicacoes",
+    "entity": "telecomunicacoes",
+    "iso-name": "Nowo Communications, S.A.",
+    "name": "Nowo Communications, S.A.",
+    "ref": 20936
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "Petrogal - Petro'leos de Portugal, S.A.",
+    "name": "Petrogal - Petr\u00f3leos de Portugal, S.A.",
+    "ref": 20950
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Rentokil Initial Portugal - Servic,os de Protec,a~o Ambiental, Lda.",
+    "name": "Rentokil Initial Portugal - Servi\u00e7os de Prote\u00e7\u00e3o Ambiental, Lda.",
+    "ref": 20961
+  },
+  {
+    "associated": "IUC - Imposto Unico de Circulacao",
+    "entity": "IUC - Imposto Unico de Circulacao",
+    "iso-name": "IMTT - Instituto da Mobilidade e dos Transportes Terrestres, I.P.",
+    "name": "IMTT - Instituto da Mobilidade e dos Transportes Terrestres, I.P.",
+    "ref": 20975
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Casax - Consultadoria de Gesta~o, Lda.",
+    "name": "Casax - Consultadoria de Gest\u00e3o, Lda.",
+    "ref": 20977
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Blueticket - Servic,os de Bilhe'tica, S.A.",
+    "name": "Blueticket - Servi\u00e7os de Bilh\u00e9tica, S.A.",
+    "ref": 20987
+  },
+  {
+    "associated": "solucoes de agua e cafe",
+    "entity": "solucoes de agua e cafe",
+    "iso-name": "Jet Cooler - A'guas e Cafe's, S.A.",
+    "name": "Jet Cooler - \u00c1guas e Caf\u00e9s, S.A.",
+    "ref": 21000
+  },
+  {
+    "associated": "servicos bancarios - credito ao consumo",
+    "entity": "servicos bancarios - credito ao consumo",
+    "iso-name": "Banco Primus, S.A.",
+    "name": "Banco Primus, S.A.",
+    "ref": 21034
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "IGFSS - Instituto de Gesta~o Financeira da Seguranc,a Social, I.P.",
+    "name": "IGFSS - Instituto de Gest\u00e3o Financeira da Seguran\u00e7a Social, I.P.",
+    "ref": 21056
+  },
+  {
+    "associated": "IUC - Imposto Unico de Circulacao",
+    "entity": "IUC - Imposto Unico de Circulacao",
+    "iso-name": "IMTT - Instituto da Mobilidade e dos Transportes Terrestres, I.P.",
+    "name": "IMTT - Instituto da Mobilidade e dos Transportes Terrestres, I.P.",
+    "ref": 21086
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "Galp Energia, S.A.",
+    "name": "Galp Energia, S.A.",
+    "ref": 21096
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Easypay - Instituic,a~o de Pagamento, Lda.",
+    "name": "Easypay - Institui\u00e7\u00e3o de Pagamento, Lda.",
+    "ref": 21098
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Seguradoras Unidas, S.A.",
+    "name": "Seguradoras Unidas, S.A.",
+    "ref": 21135
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Condoarade - Gesta~o de Condomi'nios, Lda.",
+    "name": "Condoarade - Gest\u00e3o de Condom\u00ednios, Lda.",
+    "ref": 21142
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Segurihigiene - Medicina no Trabalho, S.A.",
+    "name": "Segurihigiene - Medicina no Trabalho, S.A.",
+    "ref": 21146
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras : portagens, agua, etc.",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras : portagens, agua, etc.",
+    "iso-name": "CTT Correios de Portugal, S.A.",
+    "name": "CTT Correios de Portugal, S.A.",
+    "ref": 21154
+  },
+  {
+    "associated": "telecomunicacoes",
+    "entity": "telecomunicacoes",
+    "iso-name": "Altice Portugal, S.A.",
+    "name": "Altice Portugal, S.A.",
+    "ref": 21159
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "Galp Ga's Natural, S.A.",
+    "name": "Galp G\u00e1s Natural, S.A.",
+    "ref": 21177
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "EDP - Soluc,o~es Comerciais, S.A.",
+    "name": "EDP - Solu\u00e7\u00f5es Comerciais, S.A.",
+    "ref": 21188
+  },
+  {
+    "associated": "electricidade/gas/outros combustiveis",
+    "entity": "electricidade/gas/outros combustiveis",
+    "iso-name": "EDP - Soluc,o~es Comerciais, S.A.",
+    "name": "EDP - Solu\u00e7\u00f5es Comerciais, S.A.",
+    "ref": 21196
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "APECA - Associac,a~o das Empresas de Contabilidade e Administrac,a~o",
+    "name": "APECA - Associa\u00e7\u00e3o das Empresas de Contabilidade e Administra\u00e7\u00e3o",
+    "ref": 21199
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Munici'pio de Paredes",
+    "name": "Munic\u00edpio de Paredes",
+    "ref": 21212
+  },
+  {
+    "associated": "portagens",
+    "entity": "portagens",
+    "iso-name": "Ascendi, S.A.",
+    "name": "Ascendi, S.A.",
+    "ref": 21218
+  },
+  {
+    "associated": "consumiveis dentarios",
+    "entity": "consumiveis dentarios",
+    "iso-name": "Montellano, Lda.",
+    "name": "Montellano, Lda.",
+    "ref": 21225
+  },
+  {
+    "associated": "portagens",
+    "entity": "portagens",
+    "iso-name": "Vialivre, S.A.",
+    "name": "Vialivre, S.A.",
+    "ref": 21234
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Otis Elevadores, Lda.",
+    "name": "Otis Elevadores, Lda.",
+    "ref": 21235
+  },
+  {
+    "associated": "servicos bancarios - credito automovel",
+    "entity": "servicos bancarios - credito automovel",
+    "iso-name": "BMW Bank Gmbh - Sucursal Portuguesa",
+    "name": "BMW Bank Gmbh - Sucursal Portuguesa",
+    "ref": 21245
+  },
+  {
+    "associated": "propinas",
+    "entity": "propinas",
+    "iso-name": "Universidade do Porto",
+    "name": "Universidade do Porto",
+    "ref": 21269
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Santander Totta Seguros - Companhia de Seguros de Vida, S.A.",
+    "name": "Santander Totta Seguros - Companhia de Seguros de Vida, S.A.",
+    "ref": 21276
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Munici'pio de Terras De Bouro",
+    "name": "Munic\u00edpio de Terras De Bouro",
+    "ref": 21309
+  },
+  {
+    "associated": "servicos bancarios - carregamento de cartoes de debito pre-pagos",
+    "entity": "servicos bancarios - carregamento de cartoes de debito pre-pagos",
+    "iso-name": "Caixa Econo'mica Montepio Geral - Caixa Econo'mica Banca'ria, S.A.",
+    "name": "Caixa Econ\u00f3mica Montepio Geral - Caixa Econ\u00f3mica Banc\u00e1ria, S.A.",
+    "ref": 21312
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Munici'pio de Coimbra",
+    "name": "Munic\u00edpio de Coimbra",
+    "ref": 21318
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Primavera Software, S.A.",
+    "name": "Primavera Software, S.A.",
+    "ref": 21321
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Munici'pio de Gondomar",
+    "name": "Munic\u00edpio de Gondomar",
+    "ref": 21344
+  },
+  {
+    "associated": "multas, coimas rodoviarias",
+    "entity": "multas, coimas rodoviarias",
+    "iso-name": "Cascais Pro'xima - Gesta~o da Mobilidade, Espac,os Urbanos e Energias, E.M. S.A.",
+    "name": "Cascais Pr\u00f3xima - Gest\u00e3o da Mobilidade, Espa\u00e7os Urbanos e Energias, E.M. S.A.",
+    "ref": 21345
+  },
+  {
+    "associated": "multas de estacionamento, coimas rodoviarias",
+    "entity": "multas de estacionamento, coimas rodoviarias",
+    "iso-name": "Poli'cia Municipal de Lisboa",
+    "name": "Pol\u00edcia Municipal de Lisboa",
+    "ref": 21347
+  },
+  {
+    "associated": "servicos bancarios - recuperacao de creditos",
+    "entity": "servicos bancarios - recuperacao de creditos",
+    "iso-name": "Servdebt - Capital Asset Management, S.A.",
+    "name": "Servdebt - Capital Asset Management, S.A.",
+    "ref": 21349
+  },
+  {
+    "associated": "servicos bancarios - credito ao consumo",
+    "entity": "servicos bancarios - credito ao consumo",
+    "iso-name": "BNP Paribas Personal Finance",
+    "name": "BNP Paribas Personal Finance",
+    "ref": 21374
+  },
+  {
+    "associated": "servicos bancarios",
+    "entity": "servicos bancarios",
+    "iso-name": "BCP - Banco Comercial Portugue^s, S.A.",
+    "name": "BCP - Banco Comercial Portugu\u00eas, S.A.",
+    "ref": 21375
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Wurth Portugal - Te'cnica de Montagem, Lda.",
+    "name": "Wurth Portugal - T\u00e9cnica de Montagem, Lda.",
+    "ref": 21383
+  },
+  {
+    "associated": "servicos bancarios - recuperacao de creditos",
+    "entity": "servicos bancarios - recuperacao de creditos",
+    "iso-name": "Servdebt - Capital Asset Management, S.A.",
+    "name": "Servdebt - Capital Asset Management, S.A.",
+    "ref": 21410
+  },
+  {
+    "associated": "portagens",
+    "entity": "portagens",
+    "iso-name": "Ascendi, S.A.",
+    "name": "Ascendi, S.A.",
+    "ref": 21417
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "PT Pay, S.A.",
+    "name": "PT Pay, S.A.",
+    "ref": 21426
+  },
+  {
+    "associated": "FCT - Fundos de Compensacao do Trabalho",
+    "entity": "FCT - Fundos de Compensacao do Trabalho",
+    "iso-name": "IGFSS - Instituto de Gesta~o Financeira da Seguranc,a Social, I.P.",
+    "name": "IGFSS - Instituto de Gest\u00e3o Financeira da Seguran\u00e7a Social, I.P.",
+    "ref": 21448
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Liberty Seguros, S.A.",
+    "name": "Liberty Seguros, S.A.",
+    "ref": 21467
+  },
+  {
+    "associated": "agua/saneamento/residuos",
+    "entity": "agua/saneamento/residuos",
+    "iso-name": "A'guas de Valongo, S.A.",
+    "name": "\u00c1guas de Valongo, S.A.",
+    "ref": 21487
+  },
+  {
+    "associated": "servicos bancarios",
+    "entity": "servicos bancarios",
+    "iso-name": "BCP - Banco Comercial Portugue^s, S.A.",
+    "name": "BCP - Banco Comercial Portugu\u00eas, S.A.",
+    "ref": 21489
+  },
+  {
+    "associated": "agua/saneamento/residuos",
+    "entity": "agua/saneamento/residuos",
+    "iso-name": "CMPEA - Empresa de A'guas do Munici'pio do Porto, E.M.",
+    "name": "CMPEA - Empresa de \u00c1guas do Munic\u00edpio do Porto, E.M.",
+    "ref": 21496
+  },
+  {
+    "associated": "servicos bancarios",
+    "entity": "servicos bancarios",
+    "iso-name": "Lisgarante - Sociedade de Garantia Mu'tua, S.A.",
+    "name": "Lisgarante - Sociedade de Garantia M\u00fatua, S.A.",
+    "ref": 21535
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Aegon Santander Portugal Vida - Companhia de Seguros de Vida, S.A.",
+    "name": "Aegon Santander Portugal Vida - Companhia de Seguros de Vida, S.A.",
+    "ref": 21540
+  },
+  {
+    "associated": "servicos bancarios - credito a habitacao",
+    "entity": "servicos bancarios - credito a habitacao",
+    "iso-name": "UCI - Unio'n de Cre'ditos Inmobiliarios, S.A. - Sucursal em Portugal",
+    "name": "UCI - Uni\u00f3n de Cr\u00e9ditos Inmobiliarios, S.A. - Sucursal em Portugal",
+    "ref": 21546
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "CTT Correios de Portugal, S.A.",
+    "name": "CTT Correios de Portugal, S.A.",
+    "ref": 21557
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "PT Pay, S.A.",
+    "name": "PT Pay, S.A.",
+    "ref": 21565
+  },
+  {
+    "associated": "seguros",
+    "entity": "seguros",
+    "iso-name": "Victoria Seguros, S.A.",
+    "name": "Victoria Seguros, S.A.",
+    "ref": 21572
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Servicos Municipalizados das Caldas Rainha",
+    "name": "Servicos Municipalizados das Caldas Rainha",
+    "ref": 21575
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Lease Plan Portugal - Come'rcio e Aluguer de Automo'veis e Equipamentos, Unipessoal, Lda.",
+    "name": "Lease Plan Portugal - Com\u00e9rcio e Aluguer de Autom\u00f3veis e Equipamentos, Unipessoal, Lda.",
+    "ref": 21577
+  },
+  {
+    "associated": "telecomunicacoes",
+    "entity": "telecomunicacoes",
+    "iso-name": "NOS Comunicac,o~es, S.A.",
+    "name": "NOS Comunica\u00e7\u00f5es, S.A.",
+    "ref": 21579
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "euPago - Instituic,a~o de Pagamento, Lda,",
+    "name": "euPago - Institui\u00e7\u00e3o de Pagamento, Lda,",
+    "ref": 21604
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Ordem Dos Enfermeiros",
+    "name": "Ordem Dos Enfermeiros",
+    "ref": 21606
+  },
+  {
+    "associated": "servicos postais/logistica",
+    "entity": "servicos postais/logistica",
+    "iso-name": "CTT Correios de Portugal, S.A.",
+    "name": "CTT Correios de Portugal, S.A.",
+    "ref": 21607
+  },
+  {
+    "associated": "servicos bancarios - recuperacao de creditos",
+    "entity": "servicos bancarios - recuperacao de creditos",
+    "iso-name": "Logicomer - Gesta~o e Recuperac,a~o de Cre'ditos, S.A.",
+    "name": "Logicomer - Gest\u00e3o e Recupera\u00e7\u00e3o de Cr\u00e9ditos, S.A.",
+    "ref": 21615
+  },
+  {
+    "associated": "",
+    "entity": null,
+    "iso-name": "Servicos Municipalizados de Leiria",
+    "name": "Servicos Municipalizados de Leiria",
+    "ref": 21619
+  },
+  {
+    "associated": "agua/saneamento/residuos",
+    "entity": "agua/saneamento/residuos",
+    "iso-name": "A'guas de Coimbra",
+    "name": "\u00c1guas de Coimbra",
+    "ref": 21622
+  },
+  {
+    "associated": "agua/saneamento/residuos",
+    "entity": "agua/saneamento/residuos",
+    "iso-name": "SMEAS - Servic,os Municipalizados de Electricidade, A'gua e Saneamento da Maia",
+    "name": "SMEAS - Servi\u00e7os Municipalizados de Electricidade, \u00c1gua e Saneamento da Maia",
+    "ref": 21625
+  },
+  {
+    "associated": "agua/saneamento/residuos",
+    "entity": "agua/saneamento/residuos",
+    "iso-name": "A'guas de Gaia, E.M.",
+    "name": "\u00c1guas de Gaia, E.M.",
+    "ref": 21651
+  },
+  {
+    "associated": "servico de gestao de pagamentos MB a entidades terceiras",
+    "entity": "servico de gestao de pagamentos MB a entidades terceiras",
+    "iso-name": "Ifthenpay, Lda.",
+    "name": "Ifthenpay, Lda.",
+    "ref": 21721
+  },
+  {
+    "associated": "apostas",
+    "entity": "apostas",
+    "iso-name": "Bet Entertainment Technologies Limited - Sucursal Em Portugal",
+    "name": "Bet Entertainment Technologies Limited - Sucursal Em Portugal",
+    "ref": 23000
+  }
+]
