@@ -21,6 +21,7 @@ def main():
 
 Commands are:
    to-json     Convert (4) tuplets to json
+   from-json   Show from json input
 """)
     sys.exit(code if code else 0)
 
@@ -28,17 +29,27 @@ Commands are:
 def run_main(out, err, args):
     """ Main run: returns 0 on success.
     """
+    opts = {}
     msg = ""
     if not args:
         return None
     cmd = args[0]
     param = args[1:]
+    while param and param[0].startswith("--"):
+        if param[0].startswith("--verbose"):
+            opts["verbose"] += 1
+            del param[0]
+            continue
+        return None
     if param:
         return None
     if cmd == "to-json":
         msg = to_json(out, open("input.txt", "r", encoding="ISO-8859-1").read())
         if msg:
             err.write(f"ERROR: {msg}\n")
+    elif cmd == "from-json":
+        in_file = "lista_de_referencias_mb.json"
+        msg = from_json(out, open(in_file, "r", encoding="ascii").read())
     else:
         return None
     return 1 if msg else 0
@@ -94,6 +105,23 @@ def to_json(out, data:str, debug:int=0) -> str:
         ordered.append(elem)
     astr = json.dumps(ordered, indent=2, sort_keys=True)
     out.write(astr + "\n")
+    return ""
+
+
+def from_json(out, data:str, debug:int=0) -> str:
+    """ Dumps textual, line by line
+    """
+    sep = "|"
+    alist = json.loads(data)
+    for line in alist:
+        if debug > 0:
+            print(line)
+        name = line["iso-name"]
+        item = [str(line["ref"]), name, line["entity"], line["associated"]]
+        fields = [field if field else "" for field in item]
+        astr = sep.join(fields)
+        assert ";" not in astr, f"Semi-colon found: {astr}"
+        out.write(astr.replace("|", ";") + "\n")
     return ""
 
 
